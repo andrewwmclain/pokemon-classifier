@@ -1,1 +1,1 @@
-python app.py
+run locally: python app.py
